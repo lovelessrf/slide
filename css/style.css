@@ -1,0 +1,14 @@
+.bg-secondary {
+    background-color:#008080!important;
+}
+
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right:5rem;
+    padding-left:.9rem;
+}
+.navbar-expand-sm .navbar-nav .nav-link:hover{
+	color:#E9967A;
+}
+.navbar-expand-sm .navbar-nav :hover{
+	background:#C0C0C0;
+}
